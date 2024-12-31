@@ -1,0 +1,5 @@
+# my_keys.py
+OPENAI_API_KEY = ""
+ANTHROPIC_API_KEY = ""
+COHERE_API_KEY = ""
+DATABASE_URL = ""
